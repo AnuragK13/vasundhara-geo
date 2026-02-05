@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "projectName": "Solar Plant Nashik",
+    "latitude": 19.9975,
+    "longitude": 73.7898,
+    "status": "Active",
+    "lastUpdated": "10-01-2026"
+  },
+  {
+    "id": 2,
+    "projectName": "Wind Farm Pune",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "status": "Pending",
+    "lastUpdated": "05-01-2026"
+  },
+  {
+    "id": 3,
+    "projectName": "Hydro Dam Nagpur",
+    "latitude": 21.1458,
+    "longitude": 79.0882,
+    "status": "Completed",
+    "lastUpdated": "28-12-2025"
+  },
+  {
+    "id": 4,
+    "projectName": "Metro Rail Mumbai",
+    "latitude": 19.0760,
+    "longitude": 72.8777,
+    "status": "Active",
+    "lastUpdated": "15-01-2026"
+  },
+  {
+    "id": 5,
+    "projectName": "Highway Expansion Surat",
+    "latitude": 21.1702,
+    "longitude": 72.8311,
+    "status": "Delayed",
+    "lastUpdated": "02-01-2026"
+  },
+  {
+    "id": 6,
+    "projectName": "IT Park Bengaluru",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "status": "Active",
+    "lastUpdated": "18-01-2026"
+  },
+  {
+    "id": 7,
+    "projectName": "Port Development Chennai",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "status": "Pending",
+    "lastUpdated": "08-01-2026"
+  },
+  {
+    "id": 8,
+    "projectName": "Airport Expansion Delhi",
+    "latitude": 28.7041,
+    "longitude": 77.1025,
+    "status": "Completed",
+    "lastUpdated": "20-12-2025"
+  },
+  {
+    "id": 9,
+    "projectName": "Smart City Jaipur",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "status": "Active",
+    "lastUpdated": "12-01-2026"
+  },
+  {
+    "id": 10,
+    "projectName": "River Linking Project Patna",
+    "latitude": 25.5941,
+    "longitude": 85.1376,
+    "status": "Delayed",
+    "lastUpdated": "03-01-2026"
+  }
+]
