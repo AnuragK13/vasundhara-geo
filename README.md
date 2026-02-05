@@ -93,11 +93,6 @@ src/
 
 ---
 
-## Screenshots / Recording
-
-(Attach screenshots or Loom recording here)
-
----
 
 ## Time Spent
 
@@ -113,11 +108,6 @@ Time was spent on:
 
 ---
 
-## Github Repository
-
-(Add your repository link here)
-
----
 
 ## Evaluation Coverage
 
