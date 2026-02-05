@@ -11,7 +11,6 @@ export default function DataTabel({ data, selectedId, onRowClick }) {
     a.projectName.localeCompare(b.projectName),
   );
 
-  const activeOnly = data.filter((item) => item.status === "Active");
 
   return (
     <Table>
@@ -45,3 +44,4 @@ export default function DataTabel({ data, selectedId, onRowClick }) {
     </Table>
   );
 }
+
