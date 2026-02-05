@@ -1,0 +1,33 @@
+/* .container {
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+}
+
+.table {
+  width: auto;
+  overflow: scroll;
+}
+
+.map {
+  width: 100%;
+  overflow:hidden;
+} */
+
+
+
+
+/* original */
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.table {
+  width: 50%;
+  overflow: auto;
+}
+
+.map {
+  width: 50%;
+}
